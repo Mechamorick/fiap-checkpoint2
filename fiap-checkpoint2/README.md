@@ -1,8 +1,5 @@
 # checkpoint2
 Checkpoint 2 FIAP
-
-- Para acessar colocar as seguintes informções:
-  
 - Username: sa
 - Password: password
 - Url: jdbc:h2:mem:testdb
@@ -24,9 +21,7 @@ docker run -d -p 8080:8080 -e PROFILE=prd mechamorick/fiap-checkpoint2
 ```
 
 *Comando docker para executar a aplicação a partir do docker hub com o profile "stg" (homologação) - MySQL
-
-- Para acessar colocar as seguintes informções:
-  
+ 
 - Username: root
 - Password: root_pwd
 - Url: jdbc:mysql://localhost:3306/rh?createDatabaseIfNotExist=true

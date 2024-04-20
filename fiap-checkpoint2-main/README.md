@@ -1,8 +1,6 @@
 # checkpoint2
 Checkpoint 2 FIAP
 
-- Para acessar colocar as seguintes informções:
-  
 - Username: sa
 - Password: password
 - Url: jdbc:h2:mem:testdb

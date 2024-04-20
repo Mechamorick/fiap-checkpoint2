@@ -9,8 +9,6 @@ docker run -d -p 8080:8080 -e PROFILE=dev mechamorick/fiap-checkpoint2
 ```
 
 *Comando docker para executar a aplicação a partir do docker hub com o profile "prd" - Oracle SQL developer
-
-- Para acessar colocar as seguintes informções:
   
 - Username: pf1524
 - Password: password
@@ -19,7 +17,6 @@ docker run -d -p 8080:8080 -e PROFILE=dev mechamorick/fiap-checkpoint2
 ```
 docker run -d -p 8080:8080 -e PROFILE=prd mechamorick/fiap-checkpoint2 
 ```
-
 *Comando docker para executar a aplicação a partir do docker hub com o profile "stg" (homologação) - MySQL
  
 - Username: root
